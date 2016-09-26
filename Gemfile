@@ -12,7 +12,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'listen', '~> 3.0'
 gem "paperclip", "~> 5.0.0"
-gem 'pg'
+
 
  group :production do     
     gem 'pg'
